@@ -1,8 +1,11 @@
+   Collaboration requires adaptability, trust, and continuous alignment among team members.
+
  feature/conflict-a
   Collaboration requires clear communication and well-defined responsibilities.
 
    Collaboration requires clear communication and well-defined responsibilities.
 Effective teamwork depends on continuous feedback and shared understanding.
+ main
 
 Collaboration requires clear communication and well-defined responsibilitie main
 
