@@ -1,3 +1,4 @@
+Effective teamwork depends on continuous feedback and shared understanding.
  feature/conflict-b
 Collaboration requires adaptability, trust, and continuous alignment among team members.
 
