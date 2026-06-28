@@ -1,2 +1,27 @@
+ HEAD
 collaboration requires adaptability, trust, and continuous alignment among team members.
 
+
+Collaboration requires clear communication and well-defined responsibilities.
+Collaboration requires adaptability, trust, and continuous alignment among team members.
+
+   Collaboration requires adaptability, trust, and continuous alignment among team members.
+
+ feature/conflict-a
+  Collaboration requires clear communication and well-defined responsibilities.
+
+   Collaboration requires clear communication and well-defined responsibilities.
+252fb7fa852e98f15731fe6ebe6317b76ef3dd57
+Effective teamwork depends on continuous feedback and shared understanding.
+ main
+
+Collaboration requires clear communication and well-defined responsibilitie main
+
+ main
+ main
+Collaboration in this project is intentionally simple so that the focus remains on learning version control practices. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
+
+When multiple people work on these documents, it is common for changes to overlap. Overlapping changes can lead to merge conflicts, which are a normal part of a collaborative workflow.
+
+The most important aspect of collaboration is communication. Comments in pull requests, documentation updates, and clear descriptions of changes all help maintain a shared understanding of the project.
+origin/main
